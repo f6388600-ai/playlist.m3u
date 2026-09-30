@@ -1,0 +1,43 @@
+#EXTM3U
+
+#EXTINF:-1 tvg-logo="https://raw.githubusercontent.com/saeidrahmanbd/BDIX-IPTV/main/logos/star-jalsha.png" group-title="Indian Bangla",Star Jalsha
+https://catchup.yuppcdn.net/amazonv2/36/preview/starjalsha/master/chunklist.m3u8
+
+#EXTINF:-1 tvg-logo="https://raw.githubusercontent.com/saeidrahmanbd/BDIX-IPTV/main/logos/star-jalsha.png" group-title="Indian Bangla",Star Jalsha HD
+http://198.195.239.50:8095/STAR.JALSHA.HD/index.m3u8
+
+#EXTINF:-1 tvg-logo="https://raw.githubusercontent.com/saeidrahmanbd/BDIX-IPTV/main/logos/star-jalsha.png" group-title="Indian Bangla",Star Jalsha (Backup)
+http://198.195.239.50:8095/starJalsha/index.m3u8
+
+#EXTINF:-1 tvg-logo="https://raw.githubusercontent.com/saeidrahmanbd/BDIX-IPTV/main/logos/jalsha-movies-hd.png" group-title="Indian Bangla",Jalsha Movies HD
+http://livetv.akr4m.com:8080/bdtv/restrem/27.m3u8
+
+#EXTINF:-1 tvg-logo="https://raw.githubusercontent.com/saeidrahmanbd/BDIX-IPTV/main/logos/jalsha-movies-hd.png" group-title="Indian Bangla",Jalsha Movies (Backup)
+http://198.195.239.50:8095/jalshaMovies/index.m3u8
+
+#EXTINF:-1 tvg-logo="https://raw.githubusercontent.com/saeidrahmanbd/BDIX-IPTV/main/logos/jalsha-movies-hd.png" group-title="Indian Bangla",Jalsha Movies HD 2
+http://198.195.239.50:8095/JALSHA.MOVIES.HD/index.m3u8
+
+#EXTINF:-1 tvg-logo="https://raw.githubusercontent.com/saeidrahmanbd/BDIX-IPTV/main/logos/zee-bangla.png" group-title="Indian Bangla",Zee Bangla
+https://drk6xq0vhn.gpcdn.net/live/zee_bangla_720/index.m3u8
+
+#EXTINF:-1 tvg-logo="https://raw.githubusercontent.com/saeidrahmanbd/BDIX-IPTV/main/logos/zee-bangla.png" group-title="Indian Bangla",Zee Bangla HD
+https://yupptvcatchupire.yuppcdn.net/preview/zeebangla/2500.m3u8
+
+#EXTINF:-1 tvg-logo="https://raw.githubusercontent.com/saeidrahmanbd/BDIX-IPTV/main/logos/zee-bangla.png" group-title="Indian Bangla",Zee Bangla (Backup)
+https://tvsen6.aynaott.com/ZeeBangla/index.m3u8
+
+#EXTINF:-1 tvg-logo="https://raw.githubusercontent.com/saeidrahmanbd/BDIX-IPTV/main/logos/zee-bangla.png" group-title="Indian Bangla",Zee Bangla 2
+http://198.195.239.50:8095/zeeBangla/index.m3u8
+
+#EXTINF:-1 tvg-logo="https://raw.githubusercontent.com/saeidrahmanbd/BDIX-IPTV/main/logos/zee-bangla.png" group-title="Indian Bangla",Zee Bangla HD 2
+http://198.195.239.50:8095/ZEE.BANGLA.HD/index.m3u8
+
+#EXTINF:-1 tvg-logo="https://raw.githubusercontent.com/saeidrahmanbd/BDIX-IPTV/main/logos/zb-cinema.png" group-title="Indian Bangla",Zee Bangla Cinema
+https://server.zillarbarta.com/ZBCINEMA/index.m3u8
+
+#EXTINF:-1 tvg-logo="https://raw.githubusercontent.com/saeidrahmanbd/BDIX-IPTV/main/logos/zb-cinema.png" group-title="Indian Bangla",Zee Bangla Cinema (Backup)
+http://198.195.239.50:8095/ZEE.BANGLA.CINEMA/index.m3u8
+
+#EXTINF:-1 tvg-logo="https://raw.githubusercontent.com/saeidrahmanbd/BDIX-IPTV/main/logos/zee-bangla-sonar.png" group-title="Indian Bangla",Zee Bangla Sonar
+https://drk6xq0vhn.gpcdn.net/live/zee_bangla_cinema_abr/index.m3u8
